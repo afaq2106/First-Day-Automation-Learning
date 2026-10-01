@@ -1,0 +1,22 @@
+{
+  "name": "Afaq Nasir",
+  "age": 24,
+  "education": "BS Computer Science",
+  "skills": [
+    "Python",
+    "Git",
+    "GitHub",
+    "AI Automation"
+  ],
+  "isLearning": true,
+  "projects": [
+    {
+      "name": "Automation Learning",
+      "status": "In Progress"
+    },
+    {
+      "name": "Task Manager API",
+      "status": "Completed"
+    }
+  ]
+}
